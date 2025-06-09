@@ -1,0 +1,33 @@
+{
+  "name": "food-app",
+  "version": "1.0.0",
+  "description": "Food-Delivery-App",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunny-kumar12/Food--app-using-React.git"
+  },
+  "author": "Sunny kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunny-kumar12/Food--app-using-React/issues"
+  },
+  "homepage": "https://github.com/sunny-kumar12/Food--app-using-React#readme",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+
+  "browserslist": [
+  "last 2 versions",
+  "> 1%",
+  "not dead"
+]
+
+}
